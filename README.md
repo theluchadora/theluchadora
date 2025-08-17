@@ -13,7 +13,7 @@
 - 🌱 I’m learning **React, Next.js, and Node.js**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, CSS tricks, or web development in general**
-- 📫 How to reach me: **tsionfelekee@example.com**
+- 📫 How to reach me: **tsionfelekee@gmail.com**
 - ⚡ Fun fact: **I’m a serial side-project starter and a midnight coder!**
 
 ---
