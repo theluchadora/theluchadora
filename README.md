@@ -52,7 +52,6 @@
 
 ---
 
-## ✨ Quote I Live By
 
 
 
