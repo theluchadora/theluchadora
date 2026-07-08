@@ -59,25 +59,51 @@
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/tsionfeleke/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/tsionfeleke/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:tsionfelekee@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" />
+  
+  <!-- Gmail -->
+  <a href="mailto:tsionfelekee@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/the-luchadora">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+  
+  <!-- GitHub -->
+  <a href="https://github.com/theluchadora" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+  
+  <!-- Twitter -->
+   <!--
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/yourhandle">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="40" />
+  -->
+  
+  <!-- Dev.to -->
+   <!--
+  <a href="https://dev.to/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
+  -->
+  
+  <!-- Portfolio/Website -->
+  <!--
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
+  -->
+  
+</div>
+
+---
+
+## 🌟 Let's Build Something Amazing
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=the-luchadora&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </div>
 
@@ -85,20 +111,32 @@
 
 <div align="center">
   <details>
-    <summary><b>📊 GitHub Stats</b></summary>
+    <summary><b>📊 GitHub Analytics</b></summary>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=the-luchadora&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=the-luchadora&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-luchadora&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-luchadora&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-luchadora&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=the-luchadora&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
   </details>
 </div>
 
 ---
 
 <div align="center">
-  <i>"Code is poetry written in logic — and I'm publishing my best verses at midnight."</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <i>"Code is poetry written in logic and I'm publishing my best verses at midnight."</i>
   <br><br>
+  
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 </div>
