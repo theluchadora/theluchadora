@@ -100,7 +100,7 @@
 ---
 
 ## 🌟 Let's Build Something Amazing
-
+ <!--
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=the-luchadora&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -130,7 +130,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
+-->
 ---
 
 <div align="center">
