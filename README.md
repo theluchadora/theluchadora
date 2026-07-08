@@ -84,14 +84,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-luchadora&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/the-luchadora?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
----
-
-<div align="center">
   <details>
     <summary><b>📊 GitHub Stats</b></summary>
     <br>
